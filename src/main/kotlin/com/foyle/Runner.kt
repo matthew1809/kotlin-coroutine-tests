@@ -1,5 +1,8 @@
 package com.foyle
 
+import com.foyle.tests.SpeedTest
+import com.foyle.tests.WaitTest
+
 class Runner {
     fun run() {
         val speedTest = SpeedTest()

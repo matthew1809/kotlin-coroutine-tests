@@ -1,4 +1,4 @@
-package com.foyle
+package com.foyle.tests
 import kotlinx.coroutines.runBlocking
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.delay

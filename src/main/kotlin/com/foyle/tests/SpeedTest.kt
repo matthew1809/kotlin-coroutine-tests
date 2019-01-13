@@ -1,4 +1,4 @@
-package com.foyle
+package com.foyle.tests
 
 import kotlin.concurrent.thread
 import kotlinx.coroutines.GlobalScope
